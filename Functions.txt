@@ -1,0 +1,19 @@
+List of Function 
+
+Bill_Generator() - to generate bill
+Display() - in class Customers to display the contents of the object only id, phone , name
+Display_Full()- in class Customers to Display completely
+Insert() - To add new Data into the file
+Customer_Details() - in class Customers to accept the data
+Filedisplay()- to Display the data in the file
+Option_choice()-display menu and accept choices
+Search() - to search using Id and phone;
+Get_Phone()-member function
+Loading()  like a gui
+Get_Name()-mem fun
+Get_plan()- mem fun
+Update_Data()- to modify the fields
+Draw-Line()---for designing the screen
+Delete_data()--
+Plan_Details()	print few lines
+Get_ToAddress()
